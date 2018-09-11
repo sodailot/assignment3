@@ -8,4 +8,4 @@ The files contained in this repo include the run_analysis.R which creates a fold
 
 The function of the analysis is to read all the test and train data and create a merged data set. The names of the variables are based on the features.txt but modified to allow for an easier reading. This is further shown in the codebook (codebook.md).
 
-A second dataset (tidydataset.txt) is then created from the merged data set. It is a tidy data set that contains the average of each variable for each activity and each subject.
+An independent dataset (secTidySet.txt) is then created from the merged data set. It is a tidy data set that contains the average of each variable for each activity and each subject.
