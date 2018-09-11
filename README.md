@@ -1,4 +1,4 @@
-# Assignment4
+# Assignment3
 For Coursera Data Science Course. 
 This repo contains (1) this README.md, (2) a tidy data set secTidySet.txt, (3) a codebook codebook.md and (4) the run_analysis.R.
 ## Data
